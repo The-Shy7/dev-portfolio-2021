@@ -48,8 +48,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project5.png',
     title: 'Pokemon Data Analysis/Visualization',
-    info: '',
-    info2: '',
+    info: 'An exploratory analysis of a dataset of all current Pokemon to better understand the shape & structure of the data, identify data quality issues, investigate initial questions, and develop preliminary insights & hypotheses.',
+    info2: 'The data visualizations were constructed using Tableau and JavaScript was utilized to load the CSV file and attach the visualizations within the Observable Notebook.',
     url: 'https://observablehq.com/@the-shy7/cse-412-homework-2@459',
     repo: 'https://github.com/The-Shy7/pokemon-data-analysis', // if no repo, the button will not show up
   },
