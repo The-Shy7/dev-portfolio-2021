@@ -11,16 +11,16 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Raj Talukder',
-  subtitle: 'An aspiring Software Developer',
+  subtitle: 'An aspiring Software Developer.',
   cta: 'About me',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'I am an undergraduate junior studying Computer Science and Mathematics at the University of Washington. I am passionate about web/front-end development, algorithms, and using computer science to create a positive social impact.',
+  paragraphTwo: 'I love working in fast-paced environments where I can solve unique and challenging problems by developing innovative solutions. Experimenting with new technologies and working with data is my passion.',
+  paragraphThree: 'I am enthusiastic about opportunities for continued growth and improvement in becoming a more qualified industry-level developer where I can fully apply my academic experience!',
   resume: 'https://raj-resume.theshy707.vercel.app/', // if no resume, the button will not show up
 };
 
