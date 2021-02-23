@@ -77,7 +77,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: 'tahmit@uw.edu',
+  email: 'tahmit@cs.washington.edu',
 };
 
 // FOOTER DATA
