@@ -39,7 +39,7 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           Developed by{' '}
-          <a href="https://github.com/The-Shy7" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/The-Shy7/dev-portfolio-2021" target="_blank" rel="noopener noreferrer">
             Raj Talukder
           </a>
         </p>

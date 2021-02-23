@@ -103,5 +103,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: false, // true = enable GitHub stars/fork buttons
+  isEnabled: true, // false = disable GitHub stars/fork buttons
 };
