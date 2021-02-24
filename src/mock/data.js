@@ -57,8 +57,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project3.png',
     title: 'Smogon Dex',
-    info: '',
-    info2: '',
+    info: 'A web app is a database that visually displays all Pokemon where users can filter and view details of specific pokemon such as their individual stats and abilities.',
+    info2: 'This web app was built using React, styled with CSS, and the Pokemon data was acquired from a RESTful API. The app was deployed through Zeit (now Vercel).',
     url: 'https://smogondex.now.sh/',
     repo: 'https://github.com/The-Shy7/smogondb', // if no repo, the button will not show up
   },
@@ -66,8 +66,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project4.png',
     title: 'React Chat App',
-    info: '',
-    info2: '',
+    info: 'A web app that allows users to communicate with others that are in the same chat room through text messages and pictures by using their cameras on browser and mobile.',
+    info2: 'This web app was written using React for the functionality of sending messages, pictures, and allowing users to set their chat usernames. In addition, CSS was used for the styling and appearance of various parts of the app. This web app was deployed using Firebase.',
     url: 'https://scuffedchat-97e31.firebaseapp.com/room11111',
     repo: 'https://github.com/The-Shy7/scuffedchat', // if no repo, the button will not show up
   },
