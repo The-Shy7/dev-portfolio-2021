@@ -6,6 +6,6 @@ This is my personal developer portfolio presenting my resume and a small sample 
 
 I have deployed this site through [Netlify](https://www.netlify.com/).
 
-Domain: https://raj-talukder.netlify.app/
+Domain: https://tahmin-talukder.netlify.app/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ff0d16a1-da7e-4753-99a9-741e8fd941b3/deploy-status)](https://app.netlify.com/sites/raj-talukder/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ff0d16a1-da7e-4753-99a9-741e8fd941b3/deploy-status)](https://app.netlify.com/sites/tahmin-talukder/deploys)
