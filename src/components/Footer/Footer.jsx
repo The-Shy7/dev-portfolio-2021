@@ -44,7 +44,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Raj Talukder
+            Tahmin Talukder
           </a>
         </p>
 
